@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+a:link {
+    background-color: yellow;
+}
+
+a:visited {
+    background-color: cyan;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+a:active {
+    background-color: hotpink;
+}
+</style>
+</head>
+<body>
+
+<p><b><a href="https://www.w3schools.com/css/css_link.asp" target="_blank">uki.life</a>
+
+</body>
+</html>
