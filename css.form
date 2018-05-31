@@ -1,0 +1,44 @@
+<html>
+<head>
+<style>
+input[type=text],select {border-radius:10px; padding:12px;
+  width:100%;
+margin:1px solid red;background-color: dodgerblue}
+
+input[type=submit]:hover
+{background-color: red;}
+input[type=submit]{width:100%;padding:10px;}
+div {border-radius: 5px;
+background-color: yellow;
+padding: 20px;}
+</style>
+</head>
+<body>
+<div>
+  <form>
+  <lable for="fname"> First Name </lable>
+  <input type="text" id="fname"placeholoder="First Name...."> <br>
+  <lable for="lname">Last Name</lable>
+  <input type="text" id ="lname" placeholoder="Last Name..">
+  <lable for ="country">country</label>
+    <select id="country" name="country">
+      <option value="srilanka">srilanka</option>
+      <option value="as">as</option>
+      <option value="us">us</option>
+      <option value="in">in</option>
+    </select>
+
+
+<br><br>
+    <input type="submit" value="submit">
+  </form>
+</div>
+</body>
+</html>
+
+
+
+
+  </div>
+  </body>
+  </html>
